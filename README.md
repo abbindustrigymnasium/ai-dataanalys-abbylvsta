@@ -1,3 +1,2 @@
 # ai-dataanalys-abbylvsta
-#Ett snake-spel där ormen styrs av AI
-edwfewefw
+###Ett snake-spel där ormen styrs av AI
