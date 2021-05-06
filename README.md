@@ -1,4 +1,6 @@
 # Snake med AI
 ## Ett snake-spel där ormen styrs av AI
 
-### Installera pygame, pytorch, matplotlib, ipython
+### Bibliotek som behövs är pygame, pytorch, matplotlib och ipython
+
+### Kör koden i en python-miljö för att starta spelet. Tryck sedan på krysset uppe till höger på rutan med spelet för att stänga det. Den vita rutan visar statestik över ormens utveckling.
