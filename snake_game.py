@@ -69,7 +69,7 @@ class SnakeGame:
                     self.direction = Direction.RIGHT
                 elif event.key == pygame.K_UP:
                     self.direction = Direction.UP
-                elif event.key == pygame.K_DOWN:
+                elif event.key == pygame.K_DOWN: 
                     self.direction = Direction.DOWN
         
         # 2. move
